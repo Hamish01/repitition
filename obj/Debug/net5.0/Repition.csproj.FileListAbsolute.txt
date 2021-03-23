@@ -1,0 +1,16 @@
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.csprojAssemblyReference.cache
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.AssemblyInfoInputs.cache
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.AssemblyInfo.cs
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.csproj.CoreCompileInputs.cache
+C:\Users\103599187\Repition\bin\Debug\net5.0\Repition.exe
+C:\Users\103599187\Repition\bin\Debug\net5.0\Repition.deps.json
+C:\Users\103599187\Repition\bin\Debug\net5.0\Repition.runtimeconfig.json
+C:\Users\103599187\Repition\bin\Debug\net5.0\Repition.runtimeconfig.dev.json
+C:\Users\103599187\Repition\bin\Debug\net5.0\Repition.dll
+C:\Users\103599187\Repition\bin\Debug\net5.0\ref\Repition.dll
+C:\Users\103599187\Repition\bin\Debug\net5.0\Repition.pdb
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.dll
+C:\Users\103599187\Repition\obj\Debug\net5.0\ref\Repition.dll
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.pdb
+C:\Users\103599187\Repition\obj\Debug\net5.0\Repition.genruntimeconfig.cache
